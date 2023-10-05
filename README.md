@@ -1,5 +1,5 @@
  # Mileide Novais 
-- Sou natural de Ilhéus- Ba, casada, mãe de um casal de filhos, cristã, atualmente moro em Quixeramobim-Ce, onde atuo  como nutricionista Clínico em um hospital regional  terciário.
+- Sou natural de Ilhéus- Ba, casada, mãe de um casal, cristã, atualmente moro em Quixeramobim-Ce, onde atuo  como nutricionista Clínico em um hospital regional  terciário.
 - Descobrir que tenho paixão por automatizar tarefas e otimizar tempo, por isso iniciei os estudos na área de tecnologia.
 - 👀 I’m interested in dados and backend
 - 🌱 I’m currently learning Java and python
